@@ -5,8 +5,8 @@ Get Chinese pinyin from Chinese. Based on [JSPinyin](https://github.com/chinalu/
 # How to use
 include the js file, and type:
 ```js
-var pinyin = new Pinyin(false, 'default');	//	checkPolyphone = false;	charcase = 'default';
-alert(pinyin.getFullChars('你好中国'));
+var pinyin = new Pinyin(false, 'default');// checkPolyphone = false;	charcase = 'default';
+alert(pinyin.getFullChars('你好中国'));// NiHaoZhongGuo
 ```
 # LICENSE
 ```
