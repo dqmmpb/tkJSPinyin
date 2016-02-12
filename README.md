@@ -1,6 +1,11 @@
 # tkJSPinyin
 Get Chinese pinyin from Chinese. Based on [JSPinyin](https://github.com/chinalu/JSPinyin). Ported to ES6, no need for mootool, etc. See `/src` for code.
 
+# Install
+
+```fish
+bower install tkJSPinyin
+```
 
 # How to use
 include the js file, and type:
