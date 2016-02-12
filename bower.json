@@ -1,0 +1,23 @@
+{
+  "name": "tkJSPinyin",
+  "homepage": "https://github.com/Tedko/tkJSPinyin",
+  "authors": [
+    "Han <yanhan02008@gmail.com>"
+  ],
+  "description": "a simple js lib can return Chinese Pinyin",
+  "main": "src/*",
+  "moduleType": [],
+  "keywords": [
+    "pinyin",
+    "chinese",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
