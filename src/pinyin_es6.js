@@ -104,7 +104,7 @@ var Pinyin = class{
 			var strlen = str.length;
 			if(strlen == 1){
 				for(var j=0; j < result.length; j++){
-					result[0] += str;
+					result[j] += str;
 				}
 			}else{
 				var swap1 = result.slice(0);
